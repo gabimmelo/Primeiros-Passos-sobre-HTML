@@ -1,2 +1,2 @@
 # Primeiros-Passos-sobre-HTML
-Primeira aula do curso Olimpíadas de Programação, onde absorvi o aprendizado sobre os primeiros passos de HTML e CSS.
+Após a primeira aula realizada do curso ''Olimpíadas de Programação'', foi desenvolvido por mim os códigos relacionados a Programação Web, onde foram utilizados o HTML e o CSS.
